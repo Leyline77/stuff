@@ -3,32 +3,200 @@
 
   <channel>
 
-    <title>Cabin Pressure</title>
-    <description></description>
-    <link>https://ia903106.us.archive.org/14/items/cabinpressures03e01qikiqtarjuaq_201912/Cabin%20Pressure%20S03%20Image.jpg</link>
-    <language>en-us</language>
-    <copyright>Unknown</copyright>
-    <lastBuildDate>Tue, 26 Mar 2024 21:01:45 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Mar 2024 21:01:45 +0000</pubDate>
-    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <webMaster>none@archive.org (DIY Admin)</webMaster>
-	<generator>DIY</generator>
+	<title>Cabin Pressure</title>
+	<description>Sitcom about the pilots of a tiny charter airline for whom no job is too small and many jobs are too difficult.
+
+Comedy, Radio, English</description>
+	<link>https://archive.org/details/cabinpressures01e05edinburgh</link>
+	<language>en-us</language>
+	<copyright>Unknown</copyright>
+	<lastBuildDate>Tue, 26 Mar 2024 22:06:01 +0000</lastBuildDate>
+	<pubDate>Tue, 26 Mar 2024 22:06:01 +0000</pubDate>
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<webMaster>none@archive.org (DIY Admin)</webMaster>
+	<generator>DIY Dropbox</generator>
 		<image>
-			<url>https://ia903106.us.archive.org/14/items/cabinpressures03e01qikiqtarjuaq_201912/Cabin%20Pressure%20S03%20Image.jpg</url>
+			<url>https://ia802806.us.archive.org/19/items/cabinpressures01e05edinburgh/Cabin%20Pressure%20S01%20Image.jpg</url>
 			<title>Cabin Pressure</title>
 			<link>https://fourble.co.uk/podcast/bbcradio7</link>
-			<description>DIY</description>
+			<description>DIYit</description>
 		</image>
 
-    <itunes:author>DIY</itunes:author>
-    <itunes:subtitle>SUBTITLE</itunes:subtitle>
-    <itunes:summary>SUMMARY</itunes:summary>
+	<itunes:author>John Finnemore</itunes:author>
+	<itunes:subtitle>Comedy, Radio, English (subtitle)</itunes:subtitle>
+	<itunes:summary>Comedy, Radio, English (summary)</itunes:summary>
 
+<item>
+<title>Cabin Pressure S05E01 - Zurich</title>
+<link>https://archive.org/download/cabinpressures05e01zurich/Cabin Pressure - S05 - E01 Zurich.mp3</link>
+<guid>https://archive.org/download/cabinpressures05e01zurich/Cabin Pressure - S05 - E01 Zurich.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures05e01zurich/Cabin Pressure - S05 - E01 Zurich.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:05:01 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S04E06 - Yverdon-Les-Bains</title>
+<link>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E06 Yverdon-Les-Bains.mp3</link>
+<guid>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E06 Yverdon-Les-Bains.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E06 Yverdon-Les-Bains.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:04:06 +0000</pubDate>
+</item><item>
+<title>Cabin Pressure S04E05 - Xinzhou</title>
+<link>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E05 Xinzhou.mp3</link>
+<guid>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E05 Xinzhou.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E05 Xinzhou.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:04:05 +0000</pubDate>
+</item><item>
+<title>Cabin Pressure S04E04 - Wokingham</title>
+<link>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E04 Wokingham.mp3</link>
+<guid>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E04 Wokingham.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E04 Wokingham.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:04:04 +0000</pubDate>
+</item><item>
+<title>Cabin Pressure S04E03 - Vaduz</title>
+<link>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E03 Vaduz.mp3</link>
+<guid>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E03 Vaduz.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E03 Vaduz.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:04:03 +0000</pubDate>
+</item><item>
+<title>Cabin Pressure S04E02 - Uskerty</title>
+<link>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E02 .mp3</link>
+<guid>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E02 .mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E02 .mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:04:02 +0000</pubDate>
+</item><item>
+<title>Cabin Pressure S04E01 - Timbuktu</title>
+<link>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E01 Timbuktu.mp3</link>
+<guid>https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E01 Timbuktu.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures04e02/Cabin Pressure - S04 - E01 Timbuktu.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:04:01 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S03E06 - St.Petersberg</title>
+<link>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E06 St.Petersberg.mp3</link>
+<guid>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E06 St.Petersberg.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E06 St.Petersberg.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:03:06 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S03E05 - Rotterdam</title>
+<link>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E05 Rotterdam.mp3</link>
+<guid>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E05 Rotterdam.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E05 Rotterdam.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:03:05 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S03E04 - Ottery St. Mary</title>
+<link>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E04 Ottery St. Mary.mp3</link>
+<guid>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E04 Ottery St. Mary.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E04 Ottery St. Mary.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:03:04 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S03E03 - Newcastle</title>
+<link>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E03 Newcastle.mp3</link>
+<guid>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E03 Newcastle.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E03 Newcastle.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:03:03 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S03E02 - Paris</title>
+<link>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E02 Paris.mp3</link>
+<guid>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E02 Paris.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E02 Paris.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:03:02 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S03E01 - Qikiqtarjuaq</title>
+<link>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E01 Qikiqtarjuaq.mp3</link>
+<guid>https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E01 Qikiqtarjuaq.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures03e01qikiqtarjuaq_201912/Cabin Pressure - S03 - E01 Qikiqtarjuaq.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:03:01 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S02E07 - Cabin Pressure At Christmas</title>
+<link>https://archive.org/download/cabinpressures02e07cabinpressureatchristmas_20191201/Cabin Pressure - S02 - E07 - Cabin Pressure At Christmas.mp3</link>
+<guid>https://archive.org/download/cabinpressures02e07cabinpressureatchristmas_20191201/Cabin Pressure - S02 - E07 - Cabin Pressure At Christmas.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures02e07cabinpressureatchristmas_20191201/Cabin Pressure - S02 - E07 - Cabin Pressure At Christmas.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:02:07 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S02E06 - Limerick</title>
+<link>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E06 - Limerick.mp3</link>
+<guid>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E06 - Limerick.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E06 - Limerick.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:02:06 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S02E05 - Kuala Lumpur</title>
+<link>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E05 - Kuala Lumpur.mp3</link>
+<guid>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E05 - Kuala Lumpur.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E05 - Kuala Lumpur.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:02:05 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S02E04 - Johannesburg</title>
+<link>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E04 - Johannesburg.mp3</link>
+<guid>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E04 - Johannesburg.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E04 - Johannesburg.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:02:04 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S02E03 - Ipswich</title>
+<link>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E03 - Ipswich.mp3</link>
+<guid>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E03 - Ipswich.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E03 - Ipswich.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:02:03 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S02E02 - Gdansk</title>
+<link>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E02 - Gdansk.mp3</link>
+<guid>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E02 - Gdansk.mp3</guid>
+<description>Cabin Pressure Episode</description>
+<enclosure url="https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E02 - Gdansk.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:02:02 +0000</pubDate>
+</item>
 <item>
 <title>Cabin Pressure S02E01 - Helsinki</title>
 <link>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E01 - Helsinki.mp3</link>
 <guid>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E01 - Helsinki.mp3</guid>
-<description>07 of 28</description>
+<description>Cabin Pressure Episode</description>
 <enclosure url="https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E01 - Helsinki.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 26 Mar 2024 00:02:01 +0000</pubDate>
@@ -37,7 +205,7 @@
 <title>Cabin Pressure S01E06 - Fitton</title>
 <link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E06 - Fitton.mp3</link>
 <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E06 - Fitton.mp3</guid>
-<description>06 of 28</description>
+<description>Cabin Pressure Episode</description>
 <enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E06 - Fitton.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 26 Mar 2024 00:01:06 +0000</pubDate>
@@ -46,7 +214,7 @@
 <title>Cabin Pressure S01E05 - Edinburgh</title>
 <link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E05 - Edinburgh.mp3</link>
 <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E05 - Edinburgh.mp3</guid>
-<description>05 of 28</description>
+<description>Cabin Pressure Episode</description>
 <enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E05 - Edinburgh.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 26 Mar 2024 00:01:05 +0000</pubDate>
@@ -55,7 +223,7 @@
 <title>Cabin Pressure S01E04 - Douz</title>
 <link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E04 - Douz.mp3</link>
 <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E04 - Douz.mp3</guid>
-<description>04 of 28</description>
+<description>Cabin Pressure Episode</description>
 <enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E04 - Douz.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 26 Mar 2024 00:01:04 +0000</pubDate>
@@ -64,7 +232,7 @@
 <title>Cabin Pressure S01E03 - Cremona</title>
 <link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E03 - Cremona.mp3</link>
 <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E03 - Cremona.mp3</guid>
-<description>03 of 28</description>
+<description>Cabin Pressure Episode</description>
 <enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E03 - Cremona.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 26 Mar 2024 00:01:03 +0000</pubDate>
@@ -73,7 +241,7 @@
 <title>Cabin Pressure S01E02 - Boston</title>
 <link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E02 - Boston.mp3</link>
 <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E02 - Boston.mp3</guid>
-<description>02 of 28</description>
+<description>Cabin Pressure Episode</description>
 <enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E02 - Boston.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 26 Mar 2024 00:01:02 +0000</pubDate>
@@ -82,7 +250,7 @@
 <title>Cabin Pressure S01E01 - Abu Dhabi</title>
 <link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E01 - Abu Dhabi.mp3</link>
 <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E01 - Abu Dhabi.mp3</guid>
-<description>01 of 28</description>
+<description>Cabin Pressure Episode</description>
 <enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E01 - Abu Dhabi.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Tue, 26 Mar 2024 00:01:01 +0000</pubDate>
