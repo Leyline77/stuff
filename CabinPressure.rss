@@ -8,8 +8,8 @@
     <link>https://ia903106.us.archive.org/14/items/cabinpressures03e01qikiqtarjuaq_201912/Cabin%20Pressure%20S03%20Image.jpg</link>
     <language>en-us</language>
     <copyright>Unknown</copyright>
-    <lastBuildDate>Tue, 26 Mar 2024 21:01:40 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Mar 2024 21:01:40 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Mar 2024 21:01:45 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Mar 2024 21:01:45 +0000</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>none@archive.org (DIY Admin)</webMaster>
 	<generator>DIY</generator>
@@ -17,7 +17,7 @@
 			<url>https://ia903106.us.archive.org/14/items/cabinpressures03e01qikiqtarjuaq_201912/Cabin%20Pressure%20S03%20Image.jpg</url>
 			<title>Cabin Pressure</title>
 			<link>https://fourble.co.uk/podcast/bbcradio7</link>
-			<description>Fourble autogenerates podcasts from lists of MP3 files.</description>
+			<description>DIY</description>
 		</image>
 
     <itunes:author>DIY</itunes:author>
@@ -25,13 +25,49 @@
     <itunes:summary>SUMMARY</itunes:summary>
 
 <item>
+<title>Cabin Pressure S02E01 - Helsinki</title>
+<link>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E01 - Helsinki.mp3</link>
+<guid>https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E01 - Helsinki.mp3</guid>
+<description>07 of 28</description>
+<enclosure url="https://archive.org/download/cabinpressures02e01helsinki_201912/Cabin Pressure - S02 - E01 - Helsinki.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:02:01 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S01E06 - Fitton</title>
+<link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E06 - Fitton.mp3</link>
+<guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E06 - Fitton.mp3</guid>
+<description>06 of 28</description>
+<enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E06 - Fitton.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:01:06 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S01E05 - Edinburgh</title>
+<link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E05 - Edinburgh.mp3</link>
+<guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E05 - Edinburgh.mp3</guid>
+<description>05 of 28</description>
+<enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E05 - Edinburgh.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:01:05 +0000</pubDate>
+</item>
+<item>
+<title>Cabin Pressure S01E04 - Douz</title>
+<link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E04 - Douz.mp3</link>
+<guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E04 - Douz.mp3</guid>
+<description>04 of 28</description>
+<enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E04 - Douz.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:01:04 +0000</pubDate>
+</item>
+<item>
 <title>Cabin Pressure S01E03 - Cremona</title>
 <link>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E03 - Cremona.mp3</link>
 <guid>https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E03 - Cremona.mp3</guid>
 <description>03 of 28</description>
-<enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E03 - Cremona.mp3" length="42170617" type="audio/mpeg"/>
+<enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E03 - Cremona.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
-<pubDate>Tue, 26 Mar 2024 00:00:02 +0000</pubDate>
+<pubDate>Tue, 26 Mar 2024 00:01:03 +0000</pubDate>
 </item>
 <item>
 <title>Cabin Pressure S01E02 - Boston</title>
@@ -40,7 +76,7 @@
 <description>02 of 28</description>
 <enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E02 - Boston.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
-<pubDate>Tue, 26 Mar 2024 00:00:01 +0000</pubDate>
+<pubDate>Tue, 26 Mar 2024 00:01:02 +0000</pubDate>
 </item>
 <item>
 <title>Cabin Pressure S01E01 - Abu Dhabi</title>
@@ -49,7 +85,7 @@
 <description>01 of 28</description>
 <enclosure url="https://archive.org/download/cabinpressures01e05edinburgh/Cabin Pressure - S01 - E01 - Abu Dhabi.mp3" type="audio/mpeg"/>
 <category>Podcasts</category>
-<pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+<pubDate>Tue, 26 Mar 2024 00:01:01 +0000</pubDate>
 </item>
   </channel>
 </rss>
