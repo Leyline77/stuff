@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+  <channel>
+
+    <title>Cabin Pressure</title>
+    <description></description>
+    <link>https://ia903106.us.archive.org/14/items/cabinpressures03e01qikiqtarjuaq_201912/Cabin%20Pressure%20S03%20Image.jpg</link>
+    <language>en-us</language>
+    <copyright>Unknown</copyright>
+    <lastBuildDate>Tue, 26 Mar 2024 21:01:39 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Mar 2024 21:01:39 +0000</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <webMaster>(DIY Admin)</webMaster>
+	<generator>DIY</generator>
+		<image>
+			<url>https://ia903106.us.archive.org/14/items/cabinpressures03e01qikiqtarjuaq_201912/Cabin%20Pressure%20S03%20Image.jpg</url>
+			<title>Cabin Pressure</title>
+			<link>https://fourble.co.uk/podcast/bbcradio7</link>
+			<description>Fourble autogenerates podcasts from lists of MP3 files.</description>
+		</image>
+
+    <itunes:author>DIY</itunes:author>
+    <itunes:subtitle>SUBTITLE</itunes:subtitle>
+    <itunes:summary>SUMMARY</itunes:summary>
+
+	<item>
+<title>Agatha Christie BBC Dramatisations: Sleeping Murder</title>
+<link>https://archive.org/download/miss-marple-sleeping-murder/Miss%20Marple%20Sleeping%20Murder.mp3</link>
+<guid>https://archive.org/download/miss-marple-sleeping-murder/Miss%20Marple%20Sleeping%20Murder.mp3</guid>
+<description>&quot;Sleeping Murder&quot; from archive.org was assembled into the &quot;Agatha Christie BBC Dramatisations&quot; podcast by Fourble.
+
+Episode 49 of 49.</description>
+<enclosure url="https://archive.org/download/miss-marple-sleeping-murder/Miss%20Marple%20Sleeping%20Murder.mp3" length="125554521" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:00:48 +0000</pubDate>
+</item><item>
+<title>Agatha Christie BBC Dramatisations: Elephants Can Remember</title>
+<link>https://archive.org/download/elephants-can-remember/Elephants%20Can%20Remember.mp3</link>
+<guid>https://archive.org/download/elephants-can-remember/Elephants%20Can%20Remember.mp3</guid>
+<description>DESCRIPTION of 28.</description>
+<enclosure url="https://archive.org/download/elephants-can-remember/Elephants%20Can%20Remember.mp3" length="41835364" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:00:47 +0000</pubDate>
+</item><item>
+<title>Agatha Christie BBC Dramatisations: Hallowe'en Night</title>
+<link>https://archive.org/download/rss_agchbbc/47.mp3</link>
+<guid>http://archive.org/download/rss_agchbbc/47.mp3</guid>
+<description>DESCRIPTION of 28.</description>
+<enclosure url="https://archive.org/download/rss_agchbbc/47.mp3" length="42170617" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 26 Mar 2024 00:00:46 +0000</pubDate>
+</item>
+  </channel>
+</rss>
